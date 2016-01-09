@@ -1,0 +1,9 @@
+#			-*- ksh -*-
+# .bmacs
+#
+
+#debug_flag=1
+#update_modeline=1
+#scroll_step=0
+timeout=5
+buffer_gc_threshold=10
